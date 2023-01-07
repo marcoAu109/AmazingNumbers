@@ -1,3 +1,12 @@
+self learnt Java projects from JetBrains Academy
+
+//Version 1.1 - remarks : One of my professor told me the art of programming is abstraction ,
+// to limit/set the boundary of your programme
+// here i just set the programme to run upto 5 properties
+// i only use simple logic , and it is not a good practice to put everything together. should put into different class
+// naming of functions will be better to isHappyNumber , isBuzzNumber etc.
+Mark down my progress here.
+
 This is the *Amazing Numbers* project I made myself.
 
 
